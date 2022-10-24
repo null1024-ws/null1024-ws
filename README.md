@@ -15,8 +15,14 @@
 ---
 
 ### A Brief Introduction
-- 🏫 Shen Wang currently works at the School of Cybersecurity, pursuing his undergraduate degree at <a href="https://www.nwpu.edu.cn/">Northwestern Polytechnical University (NWPU).
+- 🏫 Shen Wang currently works at the School of Cybersecurity, pursuing his bachelor degree at <a href="https://www.nwpu.edu.cn/">Northwestern Polytechnical University (NWPU).
 - 📫 You can get in touch with me by email at [shenwang918@gmail.com](mailto:shenwang918@gmail.com)
 
 ---
 ### 📖 Education Background
+  
+**Bachelor Degree** \
+[**Northwestern Polytechnical University**](https://www.nwpu.edu.cn/) • 2020/09/01 - 2024/07/01 \
+Skills: `C/C++`, `Python`, `etc.` \
+Featured Projects: 
+<br/>
