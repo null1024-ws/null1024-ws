@@ -27,14 +27,16 @@
 [**Northwestern Polytechnical University**](https://www.nwpu.edu.cn/) • 2020/09/01 - 2024/07/01 \
 Skills: `C/C++`, `Python`, `etc.` 
 <br/>
+
+
 ---
 
-<img align="left" height="94px" width="94px" src="./pic/nwpu.jpg"/>
 
-**Visiting Student** \
-[**Beihang University**](https://www.buaa.edu.cn/) • 2021/09/01 - Now \
-Skills: `C/C++`, `Python`, `Nanofabrication`, `Cryogenic Measurements` \
-Featured Projects: 
+<img align="left" height="94px" width="94px" src="./pic/nwpu.png"/>
+
+**Bachelor Degree** \
+[**Northwestern Polytechnical University**](https://www.nwpu.edu.cn/) • 2017/09/01 - 2021/07/01 \
+Skills: `Electromagnetic Field and Microwave Technology`, `Signals and Systems`, `Digital Signal Processing`, `Pattern Recognition`, `etc.` \
 <br/>
 
 
