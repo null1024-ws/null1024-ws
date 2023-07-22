@@ -28,13 +28,15 @@
 Skills: `C/C++`, `Python`, `etc.` 
 <br/>
 ---
+<img align="left" height="94px" width="94px" src="./pic/nwpu.jpg"/>
 
-<img align="left" height="94px" width="94px" src="./pic/nwpu.png"/>
 **Visiting Student** \
-[**Northwestern Polytechnical University**](https://www.nwpu.edu.cn/) • 2020/09/01 - 2024/07/01 \
-Skills: `C/C++`, `Python`, `etc.` 
+[**Beihang University**](https://www.buaa.edu.cn/) • 2021/09/01 - Now \
+Skills: `C/C++`, `Python`, `Nanofabrication`, `Cryogenic Measurements` \
+Featured Projects: 
 <br/>
-  ---
+
+
 
 <!--
 **Hckrinston/Hckrinston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
