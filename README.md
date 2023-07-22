@@ -28,14 +28,11 @@
 <br/> 
 
 
-
-
-
 <img align="left" height="94px" width="94px" src="./pic/nwpu.png"/>
 
 **Bachelor Degree** \
 [**Northwestern Polytechnical University**](https://www.nwpu.edu.cn/) • 2020/09/01 - 2024/07/01 \
-Skills: `C/C++`, `Python`, `etc.` \
+Skills: `C/C++`, `Python`, `etc.`\
 <br/>
 
 
