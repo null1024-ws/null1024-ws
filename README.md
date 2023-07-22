@@ -28,6 +28,7 @@
 Skills: `C/C++`, `Python`, `etc.` 
 <br/>
 ---
+
 <img align="left" height="94px" width="94px" src="./pic/nwpu.jpg"/>
 
 **Visiting Student** \
