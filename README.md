@@ -20,14 +20,14 @@
 
 ---
 ### 📖 Education Background
-
+<br>
 <img align="left" height="94px" width="94px" src="./pic/smu.png"/>
 
 **Visiting Student** \
 [**Singapore Management University**](https://www.smu.edu.sg/) • 2023/09/04 - now \
-<br/> 
+<br/>
 
-
+<br>
 <img align="left" height="94px" width="94px" src="./pic/nwpu.png"/>
 
 **Bachelor Degree** \
