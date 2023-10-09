@@ -24,7 +24,8 @@
 <img align="left" height="94px" width="94px" src="./pic/smu.png"/>
 
 **Visiting Research Student** \
-[**Singapore Management University**](https://www.smu.edu.sg/) • 2023/09/07 - now \
+[**Singapore Management University**](https://www.smu.edu.sg/) • 2023/09/07 - now     
+**Supervisor:** [Yue Duan](https://yueduan.github.io/)\
 <br/>
 
 <br>
@@ -32,7 +33,7 @@
 
 **Bachelor Degree** \
 [**Northwestern Polytechnical University**](https://www.nwpu.edu.cn/) • 2020/09/01 - 2024/07/01 \
-Skills: `C/C++`, `Python`, `etc.`\
+**Skills:** `C/C++`, `Python`, `etc.`\
 <br/>
 
 
