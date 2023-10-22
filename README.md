@@ -20,7 +20,7 @@
 
 ---
 
-### A Brief Introduction
+### 🌱 Brief Introduction
 - 🏫 Shen Wang currently works at the School of Cybersecurity, pursuing his bachelor's degree at <a href="https://www.nwpu.edu.cn/">Northwestern Polytechnical University (NWPU).
 - 📫 You can get in touch with me by email at [shenwang@smu.edu.sg](mailto:shenwang@smu.edu.sg)
 
