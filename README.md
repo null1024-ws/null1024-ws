@@ -7,11 +7,10 @@
 </div>
 
 
-<div align="center">
-<span>  </span>
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=null1024-ws&show_icons=true&theme=radical" /><span>  </span><img height="200px" src="https://streak-stats.demolab.com/?user=null1024-ws" />
-<span>  </span>
-</div>
+<p align="center">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=null1024-ws&show_icons=true&theme=radical" />
+  <img height="170px" src="https://streak-stats.demolab.com/?user=null1024-ws" />
+</p>
 
 <p align="center">
   <br><br>
