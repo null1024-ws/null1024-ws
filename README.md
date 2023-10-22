@@ -8,8 +8,8 @@
 
 
 <p align="center">
-  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=null1024-ws&show_icons=true&theme=radical" />
-  <img height="175px" src="https://streak-stats.demolab.com/?user=null1024-ws" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=null1024-ws&show_icons=true&theme=radical" />
+  <img height="200px" src="https://streak-stats.demolab.com/?user=null1024-ws" />
 </p>
 
 <p align="center">
