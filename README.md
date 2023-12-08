@@ -1,15 +1,10 @@
 ### Hi there 👋
 <p> Hi, I'm Shen! Welcome to my world!<p>
 
-<div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=null1024-ws&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
 
 
 <p align="center">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=null1024-ws&show_icons=true&theme=radical" />
-  <img height="200px" src="https://streak-stats.demolab.com/?user=null1024-ws" />
 </p>
 
 <p align="center">
