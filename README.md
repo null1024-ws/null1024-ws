@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p> Hi, I'm Shen! Welcome to my world!<p>
+<p> Welcome, I'm Shen!<p>
 
 
 
