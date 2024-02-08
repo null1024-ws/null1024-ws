@@ -1,8 +1,8 @@
-### Hi there 👋
+### 👋 Hi there 
 <p> Welcome, I'm Shen!<p>
 
 
-
+<!--
 <p align="center">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=null1024-ws&show_icons=true&theme=radical" />
 </p>
@@ -12,7 +12,7 @@
   <strong>⚡ Check out my work below! </strong>
   <br><br>
 </p>
-
+-->
 ---
 
 ### 🌱 Brief Introduction
