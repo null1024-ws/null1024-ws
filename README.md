@@ -26,7 +26,7 @@
 
 **Visiting Research Student** \
 [**Singapore Management University**](https://www.smu.edu.sg/)  
-**Date:** 2023/09/07 - now     
+**Date:** 2023/09/07 - 2024/05/02     
 **Supervisor:** [Yue Duan](https://yueduan.github.io/)\
 <br/>
 
