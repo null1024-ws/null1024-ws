@@ -30,7 +30,7 @@
 **Supervisor:** [Yue Duan](https://yueduan.github.io/)\
 <br/>
 
-<br>
+
 <img align="left" height="94px" width="94px" src="./pic/nwpu.png"/>
 
 **Bachelor Student** \
