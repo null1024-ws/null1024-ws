@@ -1,5 +1,5 @@
 ### 👋 Hi there 
-<p> Welcome, I'm Shen Wang!<p>
+<p> Welcome, I'm Shen!<p>
 
 
 <!--
@@ -13,12 +13,6 @@
   <br><br>
 </p>
 -->
----
-
-### 🌱 Brief Introduction
-- 🏫 Shen currently works at the School of Cybersecurity, pursuing his bachelor's degree at <a href="https://www.nwpu.edu.cn/">Northwestern Polytechnical University (NWPU).
-- 📫 You can get in touch with me by email at [shenwang918@gmail.com](mailto:shenwang918@gmail.com)
-
 ---
 ### 📖 Education Background
 
